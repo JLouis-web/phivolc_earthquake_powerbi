@@ -26,4 +26,5 @@ Workflow:
 2. Data is cleaned and transformed
 3. Dataset is loaded into Power BI
 
+Dashboard: 
 <img width="1155" height="653" alt="dashboard_picture" src="https://github.com/user-attachments/assets/e2c00194-0c23-4800-a9d8-2f951226e81c" />
