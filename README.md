@@ -1,7 +1,7 @@
 # phivolc_earthquake_powerbi
 Philippines Earthquake Monitoring Dashboard - Power BI
 
-This project is an interactive earthquake monitoring dashboard built in Power BI using Pylindol API. It visualizes recent seismic activity across the Philippines, helping users quickly understand earthquake frequency, magnitude distribution, and affected regions.
+This project is an interactive earthquake monitoring dashboard built in Power BI using Pylindol API. It visualizes seismic activity across the Philippines, helping users quickly understand earthquake frequency, magnitude distribution, and affected regions.
 
 Features: 
 
